@@ -1,8 +1,10 @@
 *
-!.gitignore
 !.bash_profile
 !.bashrc
 !.bash_aliases
+!.gitignore
+!.ssh/config
+!.ssh/*.pub
 !.vim
 !.vimrc
 !.zpreztorc
@@ -12,5 +14,3 @@
 !.zprofile
 !.zshenv
 !.zshrc
-!.ssh/config
-!.ssh/*.pub
