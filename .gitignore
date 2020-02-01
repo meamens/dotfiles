@@ -12,3 +12,5 @@
 !.zprofile
 !.zshenv
 !.zshrc
+!.ssh/config
+!.ssh/*.pub
