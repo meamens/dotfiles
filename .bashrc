@@ -70,4 +70,4 @@ fi
 [[ $PS1 && -f /usr/local/share/bash-completion/bash_completion.sh ]] && \
         source /usr/local/share/bash-completion/bash_completion.sh
 
-PROMPT_COMMAND='PS1="\$(RET=\$?; [[ \$RET != 0 ]] && echo -n \[\033[31m\][\$RET] )\[\033[0;33m\][\! @ \t]\033[32m][ \w ]\n\u@\h\[\033[37m\]:\[\033[34m\]\W\[\033[37m\]\$ "'
+PROMPT_COMMAND='PS1="\[\033[01;31m\]${?#0}\[\033[0;33m\]!\! @\t \[\033[32m\]\u@\[\033[32m\]\h\[\033[37m\]:\[\033[32m\]\w\n\[\033[37m\]\$ "'

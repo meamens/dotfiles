@@ -57,12 +57,6 @@ if [ -n "$force_color_prompt" ]; then
     fi
 fi
 
-# some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-alias lg='ls -lhaG'
-
 # .bashrc for non-login shells
 if [ -f $HOME/.bashrc ]; then
         source $HOME/.bashrc
