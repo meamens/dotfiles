@@ -5,7 +5,12 @@
 !.gitignore
 !.ssh/config
 !.ssh/*.pub
-!.vim/**
+!.vim
+!.vim/
+!/.vim/
+!/.vim
+!/.vim/*
+!/.vim/**
 !.vimrc
 !.zpreztorc
 !.zprezto/**
