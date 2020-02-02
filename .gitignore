@@ -5,10 +5,10 @@
 !.gitignore
 !.ssh/config
 !.ssh/*.pub
-!.vim
+!.vim/**
 !.vimrc
 !.zpreztorc
-!.zprezto/
+!.zprezto/**
 !.zlogin
 !.zlogout
 !.zprofile
