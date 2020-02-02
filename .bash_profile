@@ -69,4 +69,4 @@ fi
         source /usr/local/share/bash-completion/bash_completion.sh
 
 #PROMPT_COMMAND='PS1="\[\033[0;33m\][\! @ \t] \[\033[32m\]\h\[\033[37m\]:\[\033[32m\]\w\n\u\[\033[37m\]:\$(RET=\$?; [[ \$RET != 0 ]] && echo -n \[\033[31m\][\$RET] ) \[\033[37m\]\$ "'
-PROMPT_COMMAND='PS1="\[\033[0;33m\][\! @ \t] \[\033[32m\]\h\[\033[37m\]:\[\033[32m\]\w\n\u\[\033[37m\]:\$(RET=\$?; [[ \$RET != 0 ]] && echo -n \[\033[31m\][\$RET] ) \[\033[37m\]\$ "'
+#PROMPT_COMMAND='PS1="\[\033[0;33m\][\! @ \t] \[\033[32m\]\h\[\033[37m\]:\[\033[32m\]\w\n\u\[\033[37m\]:\$(RET=\$?; [[ \$RET != 0 ]] && echo -n \[\033[31m\][\$RET] ) \[\033[37m\]\$ "'
