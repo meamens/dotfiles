@@ -1,3 +1,4 @@
+*
 !.bash_profile
 !.bashrc
 !.bash_aliases
@@ -7,10 +8,9 @@
 !.vim
 !.vimrc
 !.zpreztorc
-!.zprezto/**
+!.zprezto/
 !.zlogin
 !.zlogout
 !.zprofile
 !.zshenv
 !.zshrc
-*
