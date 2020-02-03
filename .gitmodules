@@ -2,9 +2,9 @@
 	path = .zprezto
 	url = keybase://private/meamens/zprezto
 	branch = master
-	update = rebase
+	update = merge
 [submodule ".vim"]
 	path = .vim
 	url = keybase://private/meamens/vim
 	branch = master
-	update = rebase
+	update = merge
