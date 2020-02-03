@@ -1,1 +1,1 @@
-/home/marc/.zprezto/runcoms/zlogin
+.zprezto/runcoms/zlogin
